@@ -1,2 +1,3 @@
 # pandas
-Learning examples with Python and pandas
+Learning examples with Python and pandas.
+
